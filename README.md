@@ -6,6 +6,8 @@ Prerequsites to be installed on laptop:
 2. Appium
 3. Java 
 4. Android SDK
+
+
 Steps :
 1. Download tinder from playstore
 2. Login into tinder
