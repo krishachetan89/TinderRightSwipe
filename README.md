@@ -7,5 +7,10 @@ Prerequsites to be installed on laptop:
 3. Java 
 4. Android SDK
 
-You can download tinder from playstore
+
+Steps :
+1. Download tinder from playstore
+2. Login into tinder
+3. Run the script
+4. Enjoy
 
