@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 import unittest, time
 import os
-os.system("appium -a 127.0.0.1 -p 4723")
-time.sleep(10)
+#os.system("appium -a 127.0.0.1 -p 4723")
+#time.sleep(10)
 from appium import webdriver
 #imports
 
